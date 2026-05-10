@@ -71,4 +71,5 @@
 
 ## Прочее
 
-[Форум по Радио-86РК](http://www.nedopc.org/forum/viewforum.php?f=93&sid=8230e7f4261f34dd63b1ab9a409439f8) на nedopc.org.
+- [TTF шрифт для Радио-86РК](https://github.com/begoon/rk86-font) (TTF, SVG)
+- [Форум по Радио-86РК](http://www.nedopc.org/forum/viewforum.php?f=93&sid=8230e7f4261f34dd63b1ab9a409439f8) на nedopc.org
