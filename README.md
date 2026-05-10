@@ -17,6 +17,7 @@
 - компилятор C (порт c8080)
 - компилятор PL/M-80
 - визуализатор магнитофонных записей РК
+- [веб-компонента](https://rk86.ru/web/) для встраивания эмулятора в другие сайты
 - снапшоты
 
 Исходники: <https://github.com/begoon/rk86-js>
@@ -80,4 +81,5 @@
 ## Прочее
 
 - [TTF шрифт для Радио-86РК](https://github.com/begoon/rk86-font) (TTF, SVG)
+- [РК на железе Maximite](https://github.com/begoon/rk86-maximite)
 - [Форум по Радио-86РК](http://www.nedopc.org/forum/viewforum.php?f=93&sid=8230e7f4261f34dd63b1ab9a409439f8) на nedopc.org
