@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Радио-86РК — материалы и инструменты</title>
+<style>
+  :root { color-scheme: dark; }
+  body {
+    font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+    max-width: 48rem;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    line-height: 1.6;
+    background: #0b0f0a;
+    color: #c8e6c9;
+  }
+  h1 { font-size: 1.5rem; margin: 0 0 0.25rem; }
+  h1 small {
+    display: block;
+    font-weight: normal;
+    font-size: 0.9rem;
+    opacity: 0.7;
+    margin-top: 0.25rem;
+  }
+  a { color: #8bc34a; }
+  a:hover { color: #ffd54f; }
+  .project {
+    margin: 1.25rem 0;
+    padding: 0.5rem 0 0.5rem 1rem;
+    border-left: 2px solid #2e7d32;
+  }
+  .project h2 { font-size: 1.05rem; margin: 0 0 0.25rem; }
+  .project p { margin: 0.25rem 0; opacity: 0.9; }
+  .meta { font-size: 0.85rem; opacity: 0.65; }
+  code {
+    background: #14201a;
+    padding: 0 0.25rem;
+    border-radius: 2px;
+  }
+  footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    font-size: 0.85rem;
+    opacity: 0.6;
+    border-top: 1px dashed #2e7d32;
+  }
+</style>
+</head>
+<body>
+  <h1>Радио-86РК
+    <small>материалы, инструменты и эмуляторы советского домашнего компьютера 1986 года</small>
+  </h1>
+
+  <div class="project">
+    <h2><a href="https://rk86.ru/">rk86-js — эмулятор</a></h2>
+    <p>Эмулятор Радио-86РК на JavaScript. Работает прямо в браузере.</p>
+    <p class="meta"><a href="https://github.com/begoon/rk86-js">репозиторий</a></p>
+  </div>
+
+  <div class="project">
+    <h2><a href="https://github.com/begoon/rk86-monitor">rk86-monitor</a></h2>
+    <p>Дизассемблированный и аннотированный листинг оригинального 2КБ ПЗУ Монитора.</p>
+  </div>
+
+  <div class="project">
+    <h2><a href="https://github.com/begoon/rk86-tape">rk86-tape</a></h2>
+    <p>Декодер магнитофонных лент Радио-86РК из <code>.wav</code>-файла в исходный поток байтов.</p>
+  </div>
+
+  <div class="project">
+    <h2><a href="https://github.com/begoon/rk86-font">rk86-font</a></h2>
+    <p>TTF-шрифт, сгенерированный из оригинального знакогенератора <code>rk_font.bin</code>.</p>
+  </div>
+
+  <footer>
+    <a href="https://github.com/begoon/rk86-hub">исходник этой страницы</a>
+  </footer>
+</body>
+</html>
