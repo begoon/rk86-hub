@@ -54,6 +54,8 @@
 - <https://github.com/alexey-f-morozov/c8080> - компилятор С Алексея Морозова
 - <https://github.com/begoon/c8080-js> - порт компилятора c8080 в Typescript
 - <https://github.com/begoon/plm80> - компилятор PL/M-80
+- <https://github.com/begoon/i8080-core> - Intel 8080 (KR580VM80A) microprocessor core model in C
+- <https://github.com/begoon/i8080-js> - Intel 8080 (KR580VM80A) microprocessor in JavaScript
 
 ## Игры с исходными текстами
 
