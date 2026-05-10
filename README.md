@@ -67,8 +67,10 @@
 - [ПВО](https://github.com/begoon/pvo) - восстановление игры "ПВО"
 - [Клад](https://github.com/begoon/klad) - восстановление игры "Клад"
 - [Space](https://github.com/begoon/space) - восстановление игры "SPACE"
+- [chars](https://github.com/begoon/rk86-maximite/tree/master/programs/chars) - печать символов знакогенератора РК
+- [sokoban](https://github.com/begoon/rk86-maximite/tree/master/programs/sokoban) - игра Сокобан
 
-[Skills для Claude Code](https://github.com/begoon/rk86-reverse) для дизассемблирования программ для РК
+[Skills для Claude Code](https://github.com/begoon/rk86-reverse) для дизассемблирования программ для РК.
 
 ## Документация
 
