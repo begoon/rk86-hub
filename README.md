@@ -39,8 +39,8 @@
 
 ## Монитор
 
-- https://rk86.ru/monitor - интерактивный справочник по [каноническому Монитору 32КБ](https://github.com/begoon/rk86-monitor)
-- https://github.com/radio-86rk/MONITOR - прокомментированный канонический Монитор 32КБ от Виталия Поединка
+- <https://rk86.ru/monitor> - интерактивный справочник по [каноническому Монитору 32КБ](https://github.com/begoon/rk86-monitor)
+- <https://github.com/radio-86rk/MONITOR> - прокомментированный канонический Монитор 32КБ от Виталия Поединка
 
 ## Программные средства
 
@@ -59,12 +59,12 @@
 - [Клад](https://github.com/begoon/klad) - восстановление игры "Клад"
 - [Space](https://github.com/begoon/space) - восстановление игры "SPACE"
 
-<https://github.com/begoon/rk86-reverse> - skills для Claude Code для дизассемблирования программ для РК
+[Skills для Claude Code](https://github.com/begoon/rk86-reverse) для дизассемблирования программ для РК
 
 ## Документация
 
-- Книга [Зеленко Г., Панов С., Попов С., Домашний компьютер](https://github.com/begoon/rk86-js/blob/master/info/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%93.%2C%20%D0%9F%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%A1.%2C%20%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%A1.%2C%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.pdf)
-- Справочник программиста для РК - https://github.com/begoon/rk86-js/blob/master/info/RK86.md
+- Книга [Зеленко Г., Панов С., Попов С., "Домашний компьютер"](https://github.com/begoon/rk86-js/blob/master/info/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%93.%2C%20%D0%9F%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%A1.%2C%20%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2%20%D0%A1.%2C%20%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80.pdf)
+- [Справочник программиста для РК](https://github.com/begoon/rk86-js/blob/master/info/RK86.md)
 - [intel8080.com](https://intel8080.com) - интерактивный справочник по мнемоникам Intel 8080
 - [микросхемы РК](https://github.com/begoon/rk86/tree/master/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%85%D0%B5%D0%BC%D1%8B)
 - [полезные таблицы](https://github.com/begoon/rk86/tree/master/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B)
