@@ -20,6 +20,11 @@
 - [веб-компонента](https://rk86.ru/web/) для встраивания эмулятора в другие сайты
 - снапшоты
 
+npm пакеты:
+
+- [npx rk86](https://www.npmjs.com/package/rk86) - эмулятор rk86 для терминала
+- [веб-компонента &lt;radio86-emulator&gt;](https://www.npmjs.com/package/radio86-emulator)
+
 Исходники: <https://github.com/begoon/rk86-js>
 
 ### 86rk.ru
